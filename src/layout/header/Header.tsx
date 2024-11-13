@@ -15,5 +15,4 @@ export const Header = () => {
 };
 
 const StyledHeader = styled.header`
-background-color: lightgreen;
-`
+background-color: lightgreen`
